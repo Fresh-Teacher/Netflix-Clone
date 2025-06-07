@@ -288,17 +288,18 @@
   ],
   "categories": {
     "featured": ["movie_001"],
-    "trending": ["movie_001", "movie_002", "movie_003", "movie_004"],
-    "netflix_originals": ["movie_001", "movie_002", "movie_003", "movie_004", "movie_007", "movie_008", "movie_009"],
-    "popular": ["movie_005", "movie_006", "movie_010"],
-    "action": ["movie_002", "movie_003", "movie_006", "movie_010"],
-    "drama": ["movie_004", "movie_005", "movie_007", "movie_008", "movie_009"],
-    "sci-fi": ["movie_001", "movie_007"],
-    "anime": ["movie_006", "movie_010"],
-    "crime": ["movie_003", "movie_005", "movie_008"],
+    "trending": ["movie_001", "movie_002", "movie_003", "movie_004", "movie_012", "movie_013"],
+    "netflix_originals": ["movie_001", "movie_002", "movie_003", "movie_004", "movie_007", "movie_008", "movie_009", "movie_013"],
+    "popular": ["movie_005", "movie_006", "movie_010", "movie_011", "movie_014", "movie_015"],
+    "action": ["movie_002", "movie_003", "movie_006", "movie_010", "movie_011", "movie_012", "movie_013", "movie_015"],
+    "drama": ["movie_004", "movie_005", "movie_007", "movie_008", "movie_009", "movie_012", "movie_013", "movie_014"],
+    "sci-fi": ["movie_001", "movie_007", "movie_011"],
+    "anime": ["movie_006", "movie_010", "movie_012", "movie_015"],
+    "crime": ["movie_003", "movie_005", "movie_008", "movie_014"],
     "comedy": ["movie_008"],
-    "thriller": ["movie_003", "movie_005", "movie_007", "movie_009"],
+    "thriller": ["movie_003", "movie_005", "movie_007", "movie_009", "movie_013", "movie_014"],
     "fantasy": ["movie_002", "movie_006"],
-    "international": ["movie_003", "movie_005", "movie_006", "movie_010"]
+    "international": ["movie_003", "movie_005", "movie_006", "movie_010", "movie_012", "movie_013", "movie_015"],
+    "adventure": ["movie_010", "movie_015"]
   }
 }
